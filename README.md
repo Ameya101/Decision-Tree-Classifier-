@@ -20,3 +20,5 @@ streamlit run filename.py
 ![](irisclassify1.JPG)
 
 ![](irisclassify2.JPG)
+### contributors
+Ameya Jajulwar
